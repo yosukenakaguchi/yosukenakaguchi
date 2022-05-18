@@ -24,5 +24,5 @@
 
 # 👾 What I am currently interested in
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
-
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=Tailwind+CSS&logoColor=white)
 
