@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual+Studio+Code)
+![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=Alacritty&logoColor=white)
 
 # 📖 What I am currently learning
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform)
