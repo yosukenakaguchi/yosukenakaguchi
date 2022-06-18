@@ -1,4 +1,4 @@
-# TL;DR
+# 🌞 TL;DR
 ![yosukenakaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosukenakaguchi&count_private=true&show_icons=true&theme=dracula)
 
 # 🛠 Technologies and Tools
