@@ -21,6 +21,7 @@
 ![Alacritty](https://img.shields.io/badge/-Alacritty-F46D01?style=flat-square&logo=Alacritty&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Starship](https://img.shields.io/badge/-Starship-DD0B78?style=flat-square&logo=Starship&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=Neovim&logoColor=white)
 
 # 📖 What I am currently learning
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform)
