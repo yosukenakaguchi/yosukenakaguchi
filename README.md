@@ -1,6 +1,3 @@
-# 🌞 Stats
-![yosukenakaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yosukenakaguchi&count_private=true&show_icons=true&theme=dracula)
-
 # 🛠 Technologies and Tools
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby)
 ![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=Ruby+on+Rails)
