@@ -17,7 +17,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel)
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=Supabase&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHub+Actions&logoColor=white)
